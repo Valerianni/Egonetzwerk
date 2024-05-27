@@ -1,0 +1,39 @@
+Mein Codebuch
+
+Für mein selbsterstelltes Netzwerk habe ich folgende Attribute angelegt:
+
+Edge-Attribute
+from: ID der Person A
+to: ID der Person B
+weight: Gewichtung der Beziehung 
+1 = gute Beziehung
+2 = stark ausgeprägt
+3 = sehr stark ausgeprägt
+
+relation: Welche Art von Beziehung?
+1 = Eltern-Kind
+2 = Freundschaft
+3 = Partnerschaft
+4 = Geschwister
+
+Node-Attribute
+id: ID der Person
+name: lustiger Name der Person
+age: Altersklassen
+1 = 10-19 Jahre alt
+2 = 20-29 Jahre alt
+3 = 30-39 Jahre alt
+4 = 40-49 Jahre alt
+5 = 50-59 Jahre alt
+
+education: Höchster Bildungsabschluss in Klassen
+1 = Abiturient
+2 = Student
+3 = Ausbildung oder Bachelor
+4 = Master oder andere gleichwertige Qualifikation
+
+religion: Religionszugehörigkeit
+1 = katholisch
+2 = evangelisch
+3 = orthodox
+4 = keine Angabe oder aus der Kirche ausgetreten also "keine"
